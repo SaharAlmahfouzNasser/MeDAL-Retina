@@ -9,3 +9,5 @@ presented as keypoints overlaid on these images. The third row showcases images 
 
 You can download the dataset from: https://www.dropbox.com/sh/o8q84e2eg54ay3d/AADiAkNr6bFQDoFaKeEjpYtra?dl=0
 
+# Citation
+If you find value in utilizing this dataset, we kindly request that you cite it as a reference.
