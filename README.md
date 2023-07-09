@@ -5,5 +5,5 @@ presented as keypoints overlaid on these images. The third row showcases images 
 
 ![keypoints](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina/assets/52508554/861e0e57-59a9-4088-b150-bb0a8975fc2e)
 
-You can access the dataset at:https://www.dropbox.com/sh/o8q84e2eg54ay3d/AADiAkNr6bFQDoFaKeEjpYtra?dl=0
+You can download the dataset from: https://www.dropbox.com/sh/o8q84e2eg54ay3d/AADiAkNr6bFQDoFaKeEjpYtra?dl=0
 
