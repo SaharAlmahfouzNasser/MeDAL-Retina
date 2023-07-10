@@ -13,7 +13,7 @@ You can download the dataset from: https://www.dropbox.com/sh/o8q84e2eg54ay3d/AA
 If you find value in utilizing this dataset, we kindly request that you cite it as a reference.
 
 @misc{medal-retina,
-  author = {Gupte, Nihar and Almahfouz Nasser, Sahar and Garg, Prateek and Singhal, Keshav and Tanmay and Sethi, Amit},
+  author = {Gupte, Nihar and Almahfouz Nasser, Sahar and Garg, Prateek and Singhal, Keshav and Jain,Tanmay and Aditya and Kumar, Ravi and Sethi, Amit},
   title = {{MeDAL-Retina}},
   howpublished = {\url{https://www.dropbox.com/sh/o8q84e2eg54ay3d/AADiAkNr6bFQDoFaKeEjpYtra?dl=0}},
   year = {2023},
@@ -21,6 +21,6 @@ If you find value in utilizing this dataset, we kindly request that you cite it 
 }
 
 
-Gupte, N., Almahfouz Nasser, S., Garg, P., Singhal, K., Tanmay, & Sethi, A. (2023). MeDAL-Retina [Dataset]. Retrieved from [https://www.dropbox.com/sh/o8q84e2eg54ay3d/AADiAkNr6bFQDoFaKeEjpYtra?dl=0]
+Gupte, N., Almahfouz Nasser, S., Garg, P., Singhal, K., Jain, T., Aditya, Kumar, R., & Sethi, A. (2023). MeDAL-Retina [Dataset]. Retrieved from [https://www.dropbox.com/sh/o8q84e2eg54ay3d/AADiAkNr6bFQDoFaKeEjpYtra?dl=0]
 
 
