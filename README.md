@@ -1,6 +1,6 @@
 # MeDAL Retina Dataset
 
-Our lab, MeDAL at IITB, has generated this dataset with the aim of assisting researchers in developing algorithms for keypoints detection and pretraining large models on retinal images using a self-supervised approach. The keypoints have been meticulously annotated by students from our lab. To delve deeper into the dataset, we encourage you to refer to our paper, which provides comprehensive details. Paper's Link
+Our lab, MeDAL at IITB, has generated this dataset with the aim of assisting researchers in developing algorithms for keypoints detection and pretraining large models on retinal images using a self-supervised approach. The keypoints have been meticulously annotated by students from our lab. To delve deeper into the dataset, we encourage you to refer to our paper, which provides comprehensive details. Paper's Link: https://arxiv.org/pdf/2307.10698.pdf
 
 In the figure bellow, the first and second rows display images from the e-ophtha dataset and the retinal disease classification dataset, respectively, along with our annotations
 presented as keypoints overlaid on these images. The third row showcases images from the FIRE dataset, accompanied by the corresponding annotations for reference.
