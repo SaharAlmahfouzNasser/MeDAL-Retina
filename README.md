@@ -10,6 +10,14 @@ presented as keypoints overlaid on these images. The third row showcases images 
 
 You can download the dataset from: https://www.dropbox.com/sh/o8q84e2eg54ay3d/AADiAkNr6bFQDoFaKeEjpYtra?dl=0
 
+The dataset is organized into three folders as follows:
+
+1. Self-Supervision Data: This folder contains images sourced from various publicly available datasets. These images are intended for training the Swin-Transformer in a self-supervised fashion, primarily for tasks like angle of rotation prediction or masked region prediction within input images.
+
+2. Auxiliary Data: In this folder, you'll find images that lack annotations. These images are exclusively used to train the descriptor decoder in an unsupervised manner.
+
+3. Super Retina Training Data: This folder comprises retina images along with their corresponding annotations. These resources are employed for training the keypoint detector.
+
 # Citation
 If you find value in utilizing this dataset, we kindly request that you cite it as a reference.
 
